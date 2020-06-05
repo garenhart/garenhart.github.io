@@ -1,3 +1,8 @@
+<!--
+# **Garen Hart**
+
+
+
 ```markdown
 - Thoughts
 - Quotes
@@ -6,3 +11,4 @@
 
 [Link](url) and ![Image](src)
 ```
+-->
