@@ -1,7 +1,3 @@
-# **Garen Hart**
-
-
-
 ```markdown
 - Thoughts
 - Quotes
