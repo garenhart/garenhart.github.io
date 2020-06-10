@@ -14,13 +14,13 @@ github: [metadata]
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme              : "mmistakes/minimal-mistakes@4.19.3"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Garen Hart"
 title_separator          : "-"
-subtitle                 : "My personal website for my personal use."
+subtitle                 : "My personal website for my personal use. But its OK to peek."
 name                     : "Garen Hart"
 description              : "My personal website for my personal use."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
