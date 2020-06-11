@@ -3,7 +3,7 @@ title: "Music"
 permalink: /music/
 author_profile: true
 header:
-    image: "/assets/images/view-from-monadnock.jpg"
+    image: "/assets/images/sonic-pi-spectrum.png"
 ---
 <hr>
 # My Music

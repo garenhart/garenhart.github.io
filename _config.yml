@@ -96,14 +96,14 @@ analytics:
 # Site Author
 author:
   name             : "Garen Hart"
-  avatar           : "/assets/images/garen-portrait-sq.jpg"
-  bio              : "Who cares about my bio."
-  location         : "Boston, MA"
+  avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
+  bio              : "'It pleases me as much to doubt as to know.' - Dante"
+  location         : "Planet Earth"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:garen@garenhart.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/garenhart"
+      # url: "https://github.com/garenhart"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -131,7 +131,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/garenhart"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -141,7 +141,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Bandcamp"
+      icon: "fab fa-fw fa-bandcamp"
+      url: "https://garenhart.bandcamp.com"
+  
 
 # Reading Files
 include:
