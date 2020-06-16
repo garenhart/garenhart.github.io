@@ -18,11 +18,14 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Garen Hart"
+title                    : "My personal website for my personal use. But its OK to peek."
 title_separator          : "-"
-subtitle                 : "My personal website for my personal use. But its OK to peek."
+subtitle                 : # "My personal website for my personal use. But its OK to peek."
 name                     : "Garen Hart"
-description              : "My personal website for my personal use."
+description             : >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -53,7 +56,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -98,7 +101,7 @@ author:
   name             : "Garen Hart"
   avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
   bio              : "'It pleases me as much to doubt as to know.' - Dante"
-  location         : "Planet Earth"
+  location         : #"Planet Earth"
   email            :
   links:
     - label: "Email"
@@ -275,24 +278,20 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: false
-      comments: # true
+      comments: true
       share: true
       related: true
 
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true
