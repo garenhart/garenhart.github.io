@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/assets/images/view-from-monadnock.jpg"
+    image: "/assets/images/greenland-from-plane.png"
 ---
 
 I am ... 
