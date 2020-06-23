@@ -1,11 +1,16 @@
 ---
 title: "Post Guidelines"
 date: 2020-06-09
-tags: [philosophy, music, whatever]
+categories:
+  - GH_guidelines
+tags: 
+  - Post Formats
 header:
-    image: "/assets/images/mt-auburn-bench.jpg"
+image: "/assets/images/mt-auburn-bench.jpg"
 excerpt: "How to post"
-mathjax: "true"
+mathjax: true
+
+published: false
 ---
 
 # H1 Heading
