@@ -20,7 +20,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "HYPOMNEMATA"
 title_separator          : "-"
-subtitle                 : "My personal notebook. But since you are here I hope you find what you are looking for."
+subtitle                 : "My personal notebook. But since you are here, I hope you can find what you are looking for."
 name                     : "Garen Hart"
 description             : >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
