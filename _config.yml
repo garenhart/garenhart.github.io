@@ -23,10 +23,10 @@ title_separator          : "-"
 subtitle                 : "My personal notebook. But since you are here, I hope you can find what you are looking for."
 name                     : "Garen Hart"
 description             : >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+  This is an ongoing collection of my personal notes, favorite quotes and useful
+  links for systematic rereading and meditation. This kind of collection may have
+  been known since Plato's time as HYPOMNEMATA. 
+url                      : https://garenhart.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Garen Hart"
-  avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
+  avatar           : "/assets/images/Garen-Montaigne.png"
   bio              : "'It pleases me as much to doubt as to know.' - Dante"
   location         : #"Planet Earth"
   email            :
