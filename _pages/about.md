@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/assets/images/greenland-from-plane.png"
+    image: "/assets/images/crown-molding-narrow.png"
 ---
 
 Coming soon...
