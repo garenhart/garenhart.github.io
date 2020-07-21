@@ -18,4 +18,6 @@ bundle exec jekyll serve
 then point the browser to indicated Server address: (http://127.0.0.1:4000)
 This starts a Jekyll server using content in the test/ directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
 
+To upgrade the MM theme refer to: https://mmistakes.github.io/minimal-mistakes/docs/upgrading/
+
 All original posts with formatting info are included but unpublished. Set publish: true in Front Matter to display as needed.
