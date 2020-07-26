@@ -1,11 +1,11 @@
 ---
 title: "Post: Notice"
 categories:
-  - MM_original
+  - MM Post Tutorials
 tags:
   - Post Formats
   - notice
-published: false
+# published: false
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.

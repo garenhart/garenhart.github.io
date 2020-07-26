@@ -1,11 +1,11 @@
 ---
 title: "Post: Quote"
 categories:
-  - MM_original
+  - MM Post Tutorials
 tags:
   - Post Formats
   - quote
-published: false
+# published: false
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.

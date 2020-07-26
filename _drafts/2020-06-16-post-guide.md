@@ -2,7 +2,7 @@
 title: "Post Guidelines"
 date: 2020-06-09
 categories:
-  - GH_guidelines
+  - MM Post Tutorials
 tags: 
   - Post Formats
 header:
@@ -10,7 +10,7 @@ image: "/assets/images/mt-auburn-bench.jpg"
 excerpt: "How to post"
 mathjax: true
 
-published: false
+# published: false
 ---
 
 # H1 Heading
@@ -49,8 +49,9 @@ Inline code: `x+y`
 Image:
 <img src="{{site.url}}{{site.baseurl}}/assets/images/view-from-monadnock.jpg" alt="view from monadnock">
 
+
 Another way to insert an image using Kramdown:
-![alt]({{site.url}}{{site.baseurl}}/assets/images/view-from-monadnock.jpg")
+!["view from monadnock"]({{site.url}}{{site.baseurl}}/assets/images/view-from-monadnock.jpg){:class="img-responsive"}
 
 Math:
 $$z=x+y$$
