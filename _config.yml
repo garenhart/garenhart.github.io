@@ -273,6 +273,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  quotes:
+    output: true
+    permalink: /quotes/:path/
 
 # Defaults
 defaults:
@@ -307,3 +311,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _quotes
+  - scope:
+      path: ""
+      type: quotes
+    values:
+      layout: single
+      author_profile: false
+      share: true

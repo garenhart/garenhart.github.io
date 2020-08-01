@@ -1,6 +1,9 @@
 main:
   - title: "Posts"
     url: /posts/
+# uncomment next two lines to activate quotes
+#  - title: "Quotes"
+#    url: /quotes/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
