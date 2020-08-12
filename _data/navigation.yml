@@ -1,6 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
+# uncomment next two lines to activate chronological posts
+#  - title: "Posts"
+#    url: /posts/
 # uncomment next two lines to activate quotes
 #  - title: "Quotes"
 #    url: /quotes/
