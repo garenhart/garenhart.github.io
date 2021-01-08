@@ -9,9 +9,12 @@ https://www.youtube.com/watch?v=qWrcgHwSG8M
 
 To set up development environment to develop this theme run: bundle install
 
-To test locally before pushing run: bundle exec jekyll serve
+To test locally before pushing, start GitBash and run following two commands:
+ bundle update
+ bundle exec jekyll serve
 
-then point the browser to indicated Server address: (http://127.0.0.1:4000)
+Then point the browser to indicated Server address: (http://127.0.0.1:4000)
+
 This starts a Jekyll server using content in the test/ directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
 
 To upgrade the MM theme refer to: https://mmistakes.github.io/minimal-mistakes/docs/upgrading/
