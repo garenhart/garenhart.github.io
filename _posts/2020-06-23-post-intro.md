@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+author: Garen Hart
 categories:
   - Introduction
 tags:

@@ -1,0 +1,22 @@
+Marcus Aurelius:
+  name        : "Marcus Aurelius"
+  bio         : 
+  avatar      : "/assets/images/marcus-aurelius.jpg"
+  links:
+    - label: "Wiki"
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+
+Michel de Montaigne:
+  name        : "Michel de Montaigne"
+  bio         : 
+  avatar      : "/assets/images/montaigne.jpg"
+  links:
+    - label: "Wiki"
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+
+Garen Hart:
+  name        : "Garen Hart"
+  bio         : 
+  avatar      : "/assets/images/Garen-Montaigne-lowres.png"

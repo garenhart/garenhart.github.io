@@ -1,10 +1,11 @@
 ---
 title: "Give up on your dream"
+author: Garen Hart
 categories:
   - Thoughts
 tags:
-  - philosophy
-published: false
+  - 
+published: true
 ---
 
 An advice seemingly opposite to what modern motivational ideas suggest, but in fact more useful:
