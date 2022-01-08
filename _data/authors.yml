@@ -1,15 +1,34 @@
+Seneca:
+  name        : "Seneca"
+  bio         : Lucius Annaeus Seneca the Younger (c. 4 BC - AD 65)
+  avatar      : "/assets/images/seneca.jpg"
+  links:
+    - label: "Wiki"
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+
+Epictetus:
+  name        : "Epictetus"
+  bio         : (c. 50 - c. 135 AD)
+  avatar      : "/assets/images/epictetus.jpg"
+  links:
+    - label: "Wiki"
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/Epictetus"
+
 Marcus Aurelius:
   name        : "Marcus Aurelius"
-  bio         : 
+  bio         : (26 April 121 - 17 March 180)
   avatar      : "/assets/images/marcus-aurelius.jpg"
   links:
     - label: "Wiki"
       icon: "fab fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/Marcus_Aurelius"
 
+
 Michel de Montaigne:
   name        : "Michel de Montaigne"
-  bio         : 
+  bio         : (28 February 1533 - 13 September 1592)
   avatar      : "/assets/images/montaigne.jpg"
   links:
     - label: "Wiki"
