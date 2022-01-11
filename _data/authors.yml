@@ -1,6 +1,6 @@
 Seneca:
   name        : "Seneca"
-  bio         : Lucius Annaeus Seneca the Younger (c. 4 BC - AD 65)
+  bio         : Lucius Annaeus Seneca the Younger (c. 4 BC - 65 AD)
   avatar      : "/assets/images/seneca.jpg"
   links:
     - label: "Wiki"

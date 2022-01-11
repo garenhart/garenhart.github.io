@@ -1,9 +1,12 @@
 ---
-title: "New Post"
+title:
+author: Marcus Aurelius
 categories:
-  - Philosophy
+  - Uncategorized
 tags:
   - 
-published: false
+show_date: false
+published: true
 ---
 
+>
