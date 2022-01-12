@@ -9,7 +9,8 @@ main:
     url: /authors/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+# uncomment next two lines to activate tags
+#  - title: "Tags"
+#    url: /tags/
   - title: "About"
     url: /about/
