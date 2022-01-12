@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Authors
+title: "Quotes by Author"
 permalink: /authors/
 header:
     image: "/assets/images/crown-molding-narrow.png"
