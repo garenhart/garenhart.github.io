@@ -5,6 +5,8 @@ main:
 # uncomment next two lines to activate quotes
 #  - title: "Quotes"
 #    url: /quotes/
+  - title: "Authors"
+    url: /authors/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
