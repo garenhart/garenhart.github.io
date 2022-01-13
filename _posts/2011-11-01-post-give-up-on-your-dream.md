@@ -5,6 +5,7 @@ categories:
   - Perspective
 tags:
   - 
+show_date: true
 ---
 
 An advice seemingly opposite to what contemporary motivational ideas suggest, but in fact more useful:
