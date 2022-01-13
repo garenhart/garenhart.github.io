@@ -4,7 +4,7 @@ author: Marcus Aurelius
 categories:
   - Death
 tags:
-  - Post Formats
+  - quote
 # published: false
 ---
 

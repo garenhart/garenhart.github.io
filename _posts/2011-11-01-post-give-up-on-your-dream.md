@@ -4,7 +4,7 @@ author: Garen Hart
 categories:
   - Perspective
 tags:
-  - 
+  - quote
 show_date: true
 ---
 
