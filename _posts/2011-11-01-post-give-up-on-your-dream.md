@@ -1,10 +1,10 @@
 ---
 title: "Give up on your dream"
-author: Garen Hart
+author: Garen
 categories:
   - Perspective
 tags:
-  - quote
+  - post
 show_date: true
 ---
 
