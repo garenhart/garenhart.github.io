@@ -2,9 +2,8 @@
 layout: collection
 title: "Quotes by Author"
 permalink: /authors/
-header:
-    image: "/assets/images/crown-molding-narrow.png"
 ---
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
