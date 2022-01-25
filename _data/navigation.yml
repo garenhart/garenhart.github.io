@@ -2,9 +2,9 @@ main:
 # uncomment next two lines to activate chronological posts
 #  - title: "Posts"
 #    url: /posts/
-# uncomment next two lines to activate quotes
+# uncomment next two lines to test alternative quotes layout
 #  - title: "Quotes"
-#    url: /quotes/
+#    url: /authors_1/
   - title: "Authors"
     url: /authors/
   - title: "Categories"
