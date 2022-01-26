@@ -20,7 +20,8 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Hypomnemata"
 title_separator          : "-"
-subtitle                 : # "Thoughts and quotes (from mostly Stoic sources) on essential (to me) topics."
+subtitle                 : "'The unexamined life is not worth living' - Socrates"
+#subtitle                : "Thoughts and quotes (from mostly Stoic sources) on essential (to me) topics."
 name                     : "Garen"
 description             : >- # this means to ignore newlines until "baseurl:"
   This is an ongoing collection of my personal notes, favorite quotes and useful
@@ -100,7 +101,7 @@ analytics:
 author:
   name             : "Garen"
   avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
-  bio              : "'The unexamined life is not worth living' - Socrates"
+  bio              : #"'The unexamined life is not worth living' - Socrates"
   location         : #"Planet Earth"
   email            :
   links:
