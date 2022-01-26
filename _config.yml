@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "Hypomnemata"
 title_separator          : "-"
 subtitle                 : "'The unexamined life is not worth living' - Socrates"
-#subtitle                : "Thoughts and quotes (from mostly Stoic sources) on essential (to me) topics."
+# subtitle                : "Thoughts and quotes (from mostly Stoic sources) on essential (to me) topics."
 name                     : "Garen"
 description             : >- # this means to ignore newlines until "baseurl:"
   This is an ongoing collection of my personal notes, favorite quotes and useful
