@@ -290,6 +290,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
+      date_stamp: false
       share: false # set to true to enable social media sharing buttons
       related: false # set to true to enable related quotes at the bottom 
 
