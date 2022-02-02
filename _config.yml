@@ -281,6 +281,7 @@ collections:
 
 # Defaults
 defaults:
+# TODO #3 Separate quotes from thoughts @garenhart 
   # _posts
   - scope:
       path: "_posts"
