@@ -298,7 +298,7 @@ defaults:
       path: "_posts/thoughts"
       type: posts
     values:
-      layout: single
+      layout: thought
       author_profile: true
       read_time: false
       comments: true
