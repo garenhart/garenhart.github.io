@@ -4,7 +4,7 @@ author: Garen
 categories:
   - Perspective
 tags:
-  - post
+  - thought
 show_date: true
 ---
 

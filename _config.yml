@@ -290,8 +290,8 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
-      share: true
-      related: true
+      share: false # set to true to enable social media sharing buttons
+      related: false # set to true to enable related quotes at the bottom 
 
   # _posts (thoughts)
   - scope:
@@ -302,8 +302,8 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
-      share: true
-      related: true
+      share: false # set to true to enable social media sharing buttons
+      related: false # set to true to enable related quotes at the bottom
 
   # _drafts
   - scope:
