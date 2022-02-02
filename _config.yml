@@ -282,9 +282,21 @@ collections:
 # Defaults
 defaults:
 # TODO #3 Separate quotes from thoughts @garenhart 
-  # _posts
+  # _posts (quotes)
   - scope:
-      path: "_posts"
+      path: "_posts/quotes"
+      type: posts
+    values:
+      layout: quote
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+
+  # _posts (thoughts)
+  - scope:
+      path: "_posts/thoughts"
       type: posts
     values:
       layout: single
