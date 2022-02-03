@@ -3,6 +3,7 @@ title: Reading
 author: Michel de Montaigne
 categories:
   - Perspective
+  - Judgment
 tags:
   - quote
 # published: false

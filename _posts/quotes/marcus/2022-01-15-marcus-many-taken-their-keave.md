@@ -3,6 +3,7 @@ title: Many have taken their leave
 author: Marcus Aurelius
 categories:
   - Death
+  - Perspective
 tags:
   - quote
 show_date: false
