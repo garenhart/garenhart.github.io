@@ -104,11 +104,17 @@ author:
   avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
   bio              : #"'The unexamined life is not worth living' - Socrates"
   location         : #"Planet Earth"
-  email            :
+  email            : "garen@garenhart.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:garen..."
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/garenhart"
+    - label: "Bandcamp"
+      icon: "fab fa-fw fa-bandcamp"
+      url: "https://garenhart.bandcamp.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,9 +124,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/garenhart"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,15 +131,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Relief from seriousness"
+      icon: "far fa-grin-tongue-wink"
+      url: "https://www.slowdownnow.org/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/garenhart"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,9 +146,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Bandcamp"
-      icon: "fab fa-fw fa-bandcamp"
-      url: "https://garenhart.bandcamp.com"
   
 
 # Reading Files
