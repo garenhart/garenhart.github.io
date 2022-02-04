@@ -108,7 +108,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:garen@garenhart.com"
+      # url: "mailto:garen..."
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
