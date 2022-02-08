@@ -2,7 +2,7 @@
 title: To be a good person
 author: Marcus Aurelius
 categories:
-  - Perspective
+  - Natural order
   - Virtue
 tags:
   - quote

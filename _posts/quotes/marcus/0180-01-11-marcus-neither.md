@@ -3,6 +3,7 @@ title: Neither right nor wrong
 author: Marcus Aurelius
 categories:
   - Death
+  - Natural order
 tags:
   - quote
 # published: false

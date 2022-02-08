@@ -3,6 +3,7 @@ title: All things are ever alike
 author: Marcus Aurelius
 categories:
   - Perspective
+  - Natural order
 tags:
   - quote
 show_date: false

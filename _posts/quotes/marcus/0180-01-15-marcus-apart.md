@@ -3,6 +3,7 @@ title: Apart from nature
 author: Marcus Aurelius
 categories:
   - Perspective
+  - Natural order
 tags:
   - quote
 show_date: false

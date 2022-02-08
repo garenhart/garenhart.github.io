@@ -3,6 +3,7 @@ title: Live according to nature
 author: Marcus Aurelius
 categories:
   - Perspective
+  - Natural order
 tags:
   - quote
 show_date: false

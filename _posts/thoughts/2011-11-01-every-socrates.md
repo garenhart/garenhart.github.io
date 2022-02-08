@@ -5,6 +5,6 @@ categories:
   - Perspective
 tags:
   - thought
-show_date: true
+show_date: false
 ---
 > Every artist needs an appreciator, every thinker needs an orator, every cook needs a foodie, every Socrates needs a Plato.

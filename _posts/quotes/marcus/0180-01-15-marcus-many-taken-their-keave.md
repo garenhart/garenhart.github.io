@@ -4,6 +4,7 @@ author: Marcus Aurelius
 categories:
   - Death
   - Perspective
+  - Natural order
 tags:
   - quote
 show_date: false

@@ -2,7 +2,7 @@
 title: Not even death
 author: Marcus Aurelius
 categories:
-  - Perspective
+  - Natural order
   - Death
 tags:
   - quote
