@@ -6,6 +6,7 @@ categories:
   - Judgment
 tags:
   - quote
+  - why Montaigne is like a smarter brother to me
 # published: false
 ---
 
