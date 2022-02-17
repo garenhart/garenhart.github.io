@@ -11,4 +11,5 @@ show_date: false
 published: true
 ---
 >I only quote others the better to make myself more explicit.
+
 > <cite>Michel de Montaigne [Essays I, 26]</cite>

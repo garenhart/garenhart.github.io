@@ -9,4 +9,5 @@ tags:
 ---
 
 > Any man may speak truly: few men can speak ordinately, wisely, adequately. 
+
 > <cite>Michel de Montaigne [Essays III, 8]</cite>

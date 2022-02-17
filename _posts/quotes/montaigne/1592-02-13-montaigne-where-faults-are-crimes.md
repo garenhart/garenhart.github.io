@@ -8,4 +8,5 @@ tags:
 ---
 
 > In places where faults are crimes, crimes are only faults.
+
 > <cite>Michel de Montaigne [Essays III, 5]</cite>
