@@ -2,7 +2,7 @@
 title: Be silent or speak what is necessary
 author: Epictetus
 categories:
-  - Philosophy
+  - Judgment
 tags:
   - quote
 ---
