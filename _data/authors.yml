@@ -7,6 +7,15 @@ Seneca:
       icon: "fab fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/Seneca_the_Younger"
 
+Plutarch:
+  name        : "Plutarch"
+  bio         : (c. 46 - c. 119 AD)
+  avatar      : "/assets/images/plutarch.jpg"
+  links:
+    - label: ""
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/Plutarch"
+
 Epictetus:
   name        : "Epictetus"
   bio         : (c. 50 - c. 135 AD)
