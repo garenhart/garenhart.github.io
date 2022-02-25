@@ -104,11 +104,11 @@ author:
   avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
   bio              : #"'The unexamined life is not worth living' - Socrates"
   location         : #"Planet Earth"
-  email            : "garen@garenhart.com"
+  #email            : "garen@garenhart.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:garen..."
+      url: "mailto:garen@garenhart.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/garenhart"
