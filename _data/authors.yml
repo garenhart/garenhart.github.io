@@ -34,7 +34,6 @@ Marcus Aurelius:
       icon: "fab fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/Marcus_Aurelius"
 
-
 Michel de Montaigne:
   name        : "Michel de Montaigne"
   bio         : (28 February 1533 - 13 September 1592)
@@ -43,6 +42,15 @@ Michel de Montaigne:
     - label: ""
       icon: "fab fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+
+Pierre Hadot:
+  name        : Pierre Hadot
+  bio         : (21 February 1922 - 24 April 2010)
+  avatar      : "/assets/images/hadot.jpg"
+  links:
+    - label: ""
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/Pierre_Hadot"
 
 Garen:
   name        : Garen
