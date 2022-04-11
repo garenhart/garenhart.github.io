@@ -8,4 +8,4 @@ tags:
 show_date: true
 published: true
 ---
-> The ability of not being there when you are not needed is at least as important than the ability of being there when you are needed.
+> The ability of not being there when you are not needed is at least as important as the ability of being there when you are needed.
