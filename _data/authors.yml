@@ -56,3 +56,14 @@ Garen:
   name        : Garen
   bio         : 
   avatar      : "/assets/images/Garen-Montaigne-lowres.png"
+
+# Author template
+#Seneca:
+#  name        : "Seneca"
+#  bio         : Lucius Annaeus Seneca the Younger (c. 4 BC - 65 AD)
+#  avatar      : "/assets/images/seneca.jpg"
+#  links:
+#    - label: ""
+#      icon: "fab fa-wikipedia-w"
+#      url: "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+
