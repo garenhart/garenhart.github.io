@@ -2,7 +2,7 @@
 title: To enjoy freedom, you must be the slave of Philosophy
 author: Seneca
 categories:
-  - Perspective
+  - Philosophy
 tags:
   - quote
 ---
