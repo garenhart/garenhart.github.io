@@ -1,56 +1,65 @@
+# gh - Check out  minimal-mistakes/_includes/author-profile.html
+# for supported items and links (that's where I found "home").
+
 Seneca:
   name        : "Seneca"
   bio         : Lucius Annaeus Seneca the Younger (c. 4 BC - 65 AD)
   avatar      : "/assets/images/seneca.jpg"
+  home        : "https://en.wikipedia.org/wiki/Seneca_the_Younger"
   links:
-    - label: ""
-      icon: "fab fa-wikipedia-w"
-      url: "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+    - label: "Letters from a Stoic (Epistulae Morales ad Lucilium)"
+      icon: "fas fa-book"
+      url: "https://www.amazon.com/Senecas-Letters-Stoic-Thrift-Editions-ebook/dp/B01N9BAEOR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1652710629&sr=8-16"
 
 Plutarch:
   name        : "Plutarch"
   bio         : (c. 46 - c. 119 AD)
   avatar      : "/assets/images/plutarch.jpg"
+  home        : "https://en.wikipedia.org/wiki/Plutarch"
   links:
-    - label: ""
-      icon: "fab fa-wikipedia-w"
-      url: "https://en.wikipedia.org/wiki/Plutarch"
+    - label: "Moralia"
+      icon: "fas fa-book"
+      url: "https://www.amazon.com/Complete-Plutarch-Illustrated-Ancient-Classics-ebook/dp/B00C456HGU/ref=sr_1_13?crid=4QQNZ72ZCEVB&keywords=plutarch&qid=1652712076&s=digital-text&sprefix=plutarch%2Cdigital-text%2C58&sr=1-13"
 
 Epictetus:
   name        : "Epictetus"
   bio         : (c. 50 - c. 135 AD)
   avatar      : "/assets/images/epictetus.jpg"
+  home        : "https://en.wikipedia.org/wiki/Epictetus"
   links:
-    - label: ""
-      icon: "fab fa-wikipedia-w"
-      url: "https://en.wikipedia.org/wiki/Epictetus"
+    - label: "Discourses"
+      icon: "fas fa-book"
+      url: "https://www.amazon.com/Discourses-Fragments-Handbook-Oxford-Classics-ebook/dp/B00HSJ8KB2/ref=sr_1_2?crid=2UHAIZBBK8EDY&keywords=epictetus+oxford&qid=1652712158&s=digital-text&sprefix=epictetus+oxford%2Cdigital-text%2C54&sr=1-2"
 
 Marcus Aurelius:
   name        : "Marcus Aurelius"
   bio         : (26 April 121 - 17 March 180)
   avatar      : "/assets/images/marcus-aurelius.jpg"
+  home        : "https://en.wikipedia.org/wiki/Marcus_Aurelius"
   links:
-    - label: ""
+    - label: "Meditations"
       icon: "fab fa-wikipedia-w"
-      url: "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+      url: "https://www.amazon.com/Meditations-selected-correspondence-Oxford-Classics-ebook/dp/B006QV7YN8/ref=sr_1_3?crid=2CGLAAD64Y79P&keywords=marcus+aurelius+oxford&qid=1652712301&s=digital-text&sprefix=marcus+aurelius+oxford%2Cdigital-text%2C50&sr=1-3"
 
 Michel de Montaigne:
   name        : "Michel de Montaigne"
   bio         : (28 February 1533 - 13 September 1592)
   avatar      : "/assets/images/montaigne.jpg"
+  home        : "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
   links:
-    - label: ""
-      icon: "fab fa-wikipedia-w"
-      url: "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+    - label: "The Complete Essays"
+      icon: "fas fa-book"
+      url: "https://www.amazon.com/Complete-Essays-Michel-Montaigne-ebook/dp/B002RI92VQ/ref=sr_1_2?crid=2VTLO7AKL21K3&keywords=montaigne+screech&qid=1652712446&s=digital-text&sprefix=montaigne+screech%2Cdigital-text%2C60&sr=1-2"
 
 Pierre Hadot:
   name        : Pierre Hadot
   bio         : (21 February 1922 - 24 April 2010)
   avatar      : "/assets/images/hadot.jpg"
+  home        : "https://en.wikipedia.org/wiki/Pierre_Hadot"
   links:
-    - label: ""
-      icon: "fab fa-wikipedia-w"
-      url: "https://en.wikipedia.org/wiki/Pierre_Hadot"
+    - label: "Philosophy as a Way of Life"
+      icon: "fas fa-book"
+      url: "https://www.amazon.com/Philosophy-Way-Life-Spiritual-Exercises/dp/0631180338/ref=sr_1_1?crid=1Q90QG2MWPIZ&keywords=pierre+hadot&qid=1652712534&s=books&sprefix=pierre+hadot%2Cstripbooks%2C59&sr=1-1"
 
 Garen:
   name        : Garen
