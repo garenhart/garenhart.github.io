@@ -1,5 +1,5 @@
 ---
-title: Philosophy teaches us to act
+title: Practice what you preach
 author: Seneca
 categories:
   - Philosophy
