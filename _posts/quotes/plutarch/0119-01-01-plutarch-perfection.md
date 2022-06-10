@@ -11,6 +11,6 @@ tags:
 
 > ...perfection is only attained by neither speaking nor acting at random--as the proverb says, **Perfection is only attained by practice.**[^1]
 
-> <cite>Plutarch, Morals, On Education</cite>
+> <cite>Plutarch, Moralia, On Education</cite>
 
 [^1]: **Plato, "Cratylus".**

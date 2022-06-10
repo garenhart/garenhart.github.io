@@ -11,5 +11,5 @@ tags:
 > ...silence at the proper season is wisdom, and better than any speech.
 
 
-> <cite>Plutarch, Morals, On Education</cite>
+> <cite>Plutarch, Moralia, On Education</cite>
 

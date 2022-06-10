@@ -11,5 +11,5 @@ tags:
 
 > ...what has not been said is easy to say, while what has been once said can never be recalled.
 
-> <cite>Plutarch, Morals, On Education</cite>
+> <cite>Plutarch, Moralia, On Education</cite>
 
