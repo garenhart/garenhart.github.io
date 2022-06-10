@@ -11,5 +11,5 @@ tags:
 
 > ...no man can live a happy life, or even a supportable life, without the study of wisdom.
 
-> <cite>Seneca, Epistulae Morales ad Lucilium, XVI</cite>
+> <cite>Seneca, Epistulae Morales ad Lucilium, XVI. ON PHILOSOPHY, THE GUIDE OF LIFE</cite>
 

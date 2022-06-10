@@ -9,5 +9,5 @@ tags:
 
 > Change the age in which you live, and you have too much. But in every age, what is enough remains the same.
 
-> <cite>Seneca, Epistulae Morales ad Lucilium, XVII</cite>
+> <cite>Seneca, Epistulae Morales ad Lucilium, XVII. ON PHILOSOPHY AND RICHES</cite>
 

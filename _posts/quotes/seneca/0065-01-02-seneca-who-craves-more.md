@@ -9,5 +9,5 @@ tags:
 
 > It is not the man who has too little, but the man who craves more, that is poor.
 
-> <cite>Seneca, Epistulae Morales ad Lucilium, II</cite>
+> <cite>Seneca, Epistulae Morales ad Lucilium, II. ON DISCURSIVENESS IN READING</cite>
 

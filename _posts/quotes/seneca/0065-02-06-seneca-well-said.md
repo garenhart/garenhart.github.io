@@ -9,5 +9,5 @@ tags:
 
 > Whatever is well said by anyone is mine.
 
-> <cite>Seneca, Epistulae Morales ad Lucilium, XVI</cite>
+> <cite>Seneca, Epistulae Morales ad Lucilium, XVI. ON PHILOSOPHY, THE GUIDE OF LIFE</cite>
 

@@ -10,5 +10,5 @@ tags:
 
 > It is indeed foolish to be unhappy now because you may be unhappy at some future time.
 
-> <cite>Seneca, Epistulae Morales ad Lucilium, XXII</cite>
+> <cite>Seneca, Epistulae Morales ad Lucilium, XXIV. ON DESPISING DEATH</cite>
 
