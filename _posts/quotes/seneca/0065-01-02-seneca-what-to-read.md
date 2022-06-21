@@ -2,7 +2,7 @@
 title: What to read
 author: Seneca
 categories:
-  - Riding
+  - Reading
 tags:
   - quote
 ---

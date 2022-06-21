@@ -4,6 +4,7 @@ author: Michel de Montaigne
 categories:
   - Perspective
   - Judgment
+  - Reading
 tags:
   - quote
   - why Montaigne is like a smarter brother to me
