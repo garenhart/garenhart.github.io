@@ -3,6 +3,7 @@ title: Well said
 author: Seneca
 categories:
   - Perspective
+  - Quoting
 tags:
   - quote
 ---
