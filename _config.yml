@@ -28,7 +28,7 @@ description             : >- # this means to ignore newlines until "baseurl:"
   This is an ongoing collection of my personal notes, favorite quotes and useful
   links for systematic re-reading and meditation. This kind of collection has
   been known since Plato's time as Hypomnemata. 
-url                      : https://garenhart.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stoic.garenhart.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # /hypomnemata # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
