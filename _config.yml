@@ -57,6 +57,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
@@ -111,10 +112,10 @@ author:
       url: "mailto:garen@garenhart.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/garenhart"
+#      url: "https://github.com/garenhart"
     - label: "Bandcamp"
       icon: "fab fa-fw fa-bandcamp"
-      url: "https://garenhart.bandcamp.com"
+#      url: "https://garenhart.bandcamp.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
