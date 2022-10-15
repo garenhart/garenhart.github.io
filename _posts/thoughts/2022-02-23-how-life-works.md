@@ -4,6 +4,7 @@ author: Garen
 categories:
   - Perspective
   - Death
+  - Natural order
 tags:
   - thought
 show_date: true

@@ -51,17 +51,19 @@ ul, #myUL {
 <body>
 {% assign author_posts = site.posts | group_by: 'author' %}
 {% for author_post in author_posts %}
-<ul id="myUL">
-  <li><span class="caret">{{ author_post.name }}</span>
-    <ul class="nested">
-    {% for post in author_post.items %}
-          <li>
-            <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
-          </li>
-    {% endfor %}
-    </ul>
-  </li>
-</ul>
+{% if author_post.name != 'Garen' %} <!-- exclude myself from authors list while preserving my profile  -->
+  <ul id="myUL">
+    <li><span class="caret">{{ author_post.name }}</span>
+      <ul class="nested">
+      {% for post in author_post.items %}
+            <li>
+              <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
+            </li>
+      {% endfor %}
+      </ul>
+    </li>
+  </ul>
+{% endif %}
 {% endfor %}
 
 <script>
