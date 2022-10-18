@@ -64,7 +64,13 @@ Pierre Hadot:
 Garen:
   name        : Garen
   bio         : 
+  avatar      : "/assets/images/garen-portrait-sq-removebg-gray.png"
+
+Garen Hart: # profile with Montaigne clothing for fun
+  name        : Garen
+  bio         : 
   avatar      : "/assets/images/Garen-Montaigne-lowres.png"
+  email       : garen@garenhart.com
 
 # Author template
 #Seneca:

@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+author: Garen Hart # use profile from authors.yml instead of default profile from _config.yml like in other pages
 ---
 
 This is a collection of quotes (mostly from Stoic sources) and some of my thoughts on essential to me categories. This kind of note taking was known to ancient Greek and Roman philosophers as hypomnemata (memory aids). To the best of my knowledge, the word *hypomnemata* was popularized (in philosophical literature :bowtie:) by two great French philosophers of the XX century Michel Foucault and Pierre Hadot. The most prominent Stoics, such as Seneca, Epictetus and Marcus Aurelius, have been known for writing in this style.<br>
