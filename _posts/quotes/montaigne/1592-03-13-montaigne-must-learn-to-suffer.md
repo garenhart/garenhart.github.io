@@ -3,7 +3,7 @@ title: We must learn to suffer
 author: Michel de Montaigne
 categories:
   - Judgment
-  - Pain
+  - Suffering
 tags:
   - quote
 ---

@@ -2,7 +2,7 @@
 title: Suffering
 author: Michel de Montaigne
 categories:
-  - Pain
+  - Suffering
  
 tags:
   - quote

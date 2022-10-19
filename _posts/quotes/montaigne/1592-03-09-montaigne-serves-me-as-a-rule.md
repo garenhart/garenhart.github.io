@@ -2,7 +2,7 @@
 title: My maladies
 author: Michel de Montaigne
 categories:
-  - Pain
+  - Suffering
   - Virtue
 tags:
   - quote

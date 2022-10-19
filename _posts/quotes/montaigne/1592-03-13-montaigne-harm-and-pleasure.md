@@ -4,7 +4,7 @@ author: Michel de Montaigne
 categories:
   - Pleasure
   - Judgment
-  - Pain
+  - Suffering
 tags:
   - quote
 ---

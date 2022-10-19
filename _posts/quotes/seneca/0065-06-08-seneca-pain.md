@@ -3,7 +3,7 @@ title: Pain
 author: Seneca
 categories:
   - Death
-  - Pain
+  - Suffering
 tags:
   - quote
 ---

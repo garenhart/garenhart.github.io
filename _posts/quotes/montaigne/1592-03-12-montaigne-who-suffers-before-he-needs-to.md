@@ -4,7 +4,7 @@ author: Michel de Montaigne
 categories:
   - Perspective
   - Judgment
-  - Pain
+  - Suffering
 tags:
   - quote
 ---

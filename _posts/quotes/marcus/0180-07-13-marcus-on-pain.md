@@ -2,7 +2,7 @@
 title: On pain
 author: Marcus Aurelius
 categories:
-  - Pain
+  - Suffering
 tags:
   - quote
 show_date: false

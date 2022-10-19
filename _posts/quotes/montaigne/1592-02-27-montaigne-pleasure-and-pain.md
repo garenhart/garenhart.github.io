@@ -3,7 +3,7 @@ title: Pleasure and pain
 author: Michel de Montaigne
 categories:
   - Pleasure
-  - Pain
+  - Suffering
 tags:
   - quote
 ---
