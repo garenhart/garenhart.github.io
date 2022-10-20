@@ -1,15 +1,10 @@
 main:
-# uncomment next two lines to activate chronological posts
   - title: "Thoughts"
     url: /
-# uncomment next two lines to test alternative quotes layout
-#  - title: "Quotes"
-#    url: /authors_1/
   - title: "Quotes"
     url: /authors/
   - title: "Categories"
     url: /categories/
-# uncomment next two lines to activate tags
   - title: "Tags"
     url: /tags/
   - title: "About"
