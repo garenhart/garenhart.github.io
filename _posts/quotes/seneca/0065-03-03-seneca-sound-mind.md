@@ -6,6 +6,7 @@ categories:
   - Perspective
 tags:
   - quote
+  - daily read
 ---
 
 > Do you ask what is the foundation of a sound mind? It is, not to find joy in useless things.
