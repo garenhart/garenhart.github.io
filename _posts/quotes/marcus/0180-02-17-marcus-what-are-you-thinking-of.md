@@ -5,7 +5,6 @@ categories:
   - Virtue
 tags:
   - quote
-  - daily read
 show_date: false
 ---
 
