@@ -28,7 +28,7 @@ ul, #myUL {
 
 .caret::before {
   content: "\25B6";
-  color: black;
+  color: #00adb5;
   display: inline-block;
   margin-right: 6px;
 }
