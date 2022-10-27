@@ -56,9 +56,10 @@ ul, #myUL {
     <li><span class="caret">{{ author_post.name }}</span>
       <ul class="nested">
       {% for post in author_post.items %}
-            <li>
+          <!-- GH This block is replaced by the line below to show beginning of posts like in other pages  <li>
               <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
-            </li>
+            </li> -->
+        {% include archive-single.html type=entries_layout %}
       {% endfor %}
       </ul>
     </li>
