@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Quotes by Author"
-permalink: /authors/
+permalink: /quotes/
 author_profile: true
 ---
 
