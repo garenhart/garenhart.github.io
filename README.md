@@ -1,5 +1,5 @@
 # garenhart.github.io
-stoic.garenhart.com website
+garenhart.com website
 
 using remote jekyll theme: https://github.com/mmistakes/minimal-mistakes/
 
