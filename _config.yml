@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Garen"
-  avatar           : "/assets/images/garen-portrait-sq-removebg-gray.png"
+  avatar           : "/assets/images/garen.png"
   bio              : #"'The unexamined life is not worth living' - Socrates"
   location         : #"Planet Earth"
   #email            : "garen@garenhart.com"
