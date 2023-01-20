@@ -66,10 +66,10 @@ Garen:
   bio         : 
   avatar      : "/assets/images/garen.png"
 
-Garen Hart: # profile with Montaigne clothing for fun
+Garen Hart    : # profile with Montaigne clothing for fun
   name        : Garen
   bio         : 
-  avatar      : "/assets/images/garen-montaigne-lowres.png"
+  avatar      : "/assets/images/Garen-Montaigne-lowres.png"
   email       : garen@garenhart.com
 
 # Author template
