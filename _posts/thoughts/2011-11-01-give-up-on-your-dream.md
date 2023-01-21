@@ -1,5 +1,5 @@
 ---
-title: "Give up on your dream"
+title: "Reset your goals"
 author: Garen
 categories:
   - Perspective
@@ -8,4 +8,5 @@ tags:
 show_date: true
 ---
 
-> While chasing your dreams and trying to achieve your goals are important aspirations, it is even more important to set an expiration date for each goal, otherwise you'll keep missing opportunities in your life by staying focused on this one goal. If by the expiration time you didn't achieve your goal, stop, re-evaluate, set a new target, and don't forget to set a new expiration time. Now you have a slightly better chance of achieving your new goal, since you know a little better what you cannot do, and knowing what you cannot do is even more important than knowing what you can, because by learning your limits you descend from the clouds closer to the ground and your steps forward will become firmer.
+> As we embark on the journey towards fulfilling our goals, it is important that we set an expiration date for each of these objectives, otherwise we risk becoming ensnared in an unyielding pursuit, to the detriment of other opportunities that may arise in our lives.<br>
+Should we find ourselves approaching the deadline without having achieved the goal, it is essential that we take a step back, reassess our approach, and set a new goal. But in doing so, we need to remember to assign a new expiration date, for it is by recognizing the boundaries of our capabilities that we are able to chart a course that is both realistic and attainable.
