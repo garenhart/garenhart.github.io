@@ -65,6 +65,7 @@ Garen:
   name        : Garen
   bio         : 
   avatar      : "/assets/images/garen.png"
+  email       : garen@garenhart.com
 
 Garen Hart    : # profile with Montaigne clothing for fun
   name        : Garen
