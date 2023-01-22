@@ -8,4 +8,4 @@ tags:
 show_date: true
 published: true
 ---
-> Good books make you smarter, great books wake up your own dormant wisdom. Examples of great books: Montaigne's Essays or Tao Te Ching.
+> Good books can enhance one's intelligence, while great books have the power to awaken one's inherent wisdom. Examples of such great works include Montaigne's Essays and the Tao Te Ching."
