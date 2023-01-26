@@ -2,7 +2,7 @@
 title: Marriage
 author: Michel de Montaigne
 categories:
-  - Marriage
+  - Perspective
 tags:
   - quote
 ---
