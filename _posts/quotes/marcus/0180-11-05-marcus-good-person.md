@@ -7,7 +7,7 @@ categories:
 tags:
   - quote
 show_date: false
-published: true
+published: false
 ---
 >What is your profession? To be a good person. And how is this to be achieved, except on the basis of theoretical principles, some relating to universal nature and others to man’s specific constitution?
 
