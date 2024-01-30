@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Relief from seriousness"
       icon: "far fa-grin-tongue-wink"
-      url: "https://www.slowdownnow.org/"
+      # url: "https://www.slowdownnow.org/" # Unfortunately, this site is no longer active
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
