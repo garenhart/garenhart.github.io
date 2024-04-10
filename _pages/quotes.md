@@ -2,7 +2,7 @@
 layout: collection
 title: "Quotes by Author"
 permalink: /quotes/
-author_profile: true
+author_profile: false
 ---
 
 <html>
