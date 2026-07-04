@@ -9,7 +9,7 @@ Seneca:
   links:
     - label: "Letters from a Stoic (Epistulae Morales ad Lucilium)"
       icon: "fas fa-book"
-      url: "https://www.amazon.com/Senecas-Letters-Stoic-Thrift-Editions-ebook/dp/B01N9BAEOR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1652710629&sr=8-16"
+      url: "https://www.amazon.com/dp/B01N9BAEOR"
 
 Plutarch:
   name        : "Plutarch"
@@ -19,7 +19,7 @@ Plutarch:
   links:
     - label: "Moralia"
       icon: "fas fa-book"
-      url: "https://www.amazon.com/Complete-Plutarch-Illustrated-Ancient-Classics-ebook/dp/B00C456HGU/ref=sr_1_13?crid=4QQNZ72ZCEVB&keywords=plutarch&qid=1652712076&s=digital-text&sprefix=plutarch%2Cdigital-text%2C58&sr=1-13"
+      url: "https://www.amazon.com/dp/B00C456HGU"
 
 Epictetus:
   name        : "Epictetus"
@@ -29,7 +29,7 @@ Epictetus:
   links:
     - label: "Discourses"
       icon: "fas fa-book"
-      url: "https://www.amazon.com/Discourses-Fragments-Handbook-Oxford-Classics-ebook/dp/B00HSJ8KB2/ref=sr_1_2?crid=2UHAIZBBK8EDY&keywords=epictetus+oxford&qid=1652712158&s=digital-text&sprefix=epictetus+oxford%2Cdigital-text%2C54&sr=1-2"
+      url: "https://www.amazon.com/dp/B00HSJ8KB2"
 
 Marcus Aurelius:
   name        : "Marcus Aurelius"
@@ -39,7 +39,7 @@ Marcus Aurelius:
   links:
     - label: "Meditations"
       icon: "fas fa-book"
-      url: "https://www.amazon.com/Meditations-selected-correspondence-Oxford-Classics-ebook/dp/B006QV7YN8/ref=sr_1_3?crid=2CGLAAD64Y79P&keywords=marcus+aurelius+oxford&qid=1652712301&s=digital-text&sprefix=marcus+aurelius+oxford%2Cdigital-text%2C50&sr=1-3"
+      url: "https://www.amazon.com/dp/B006QV7YN8"
 
 Michel de Montaigne:
   name        : "Michel de Montaigne"
@@ -49,7 +49,7 @@ Michel de Montaigne:
   links:
     - label: "The Complete Essays"
       icon: "fas fa-book"
-      url: "https://www.amazon.com/Complete-Essays-Michel-Montaigne-ebook/dp/B002RI92VQ/ref=sr_1_2?crid=2VTLO7AKL21K3&keywords=montaigne+screech&qid=1652712446&s=digital-text&sprefix=montaigne+screech%2Cdigital-text%2C60&sr=1-2"
+      url: "https://www.amazon.com/dp/B002RI92VQ"
 
 Pierre Hadot:
   name        : Pierre Hadot
@@ -59,27 +59,16 @@ Pierre Hadot:
   links:
     - label: "Philosophy as a Way of Life"
       icon: "fas fa-book"
-      url: "https://www.amazon.com/Philosophy-Way-Life-Spiritual-Exercises/dp/0631180338/ref=sr_1_1?crid=1Q90QG2MWPIZ&keywords=pierre+hadot&qid=1652712534&s=books&sprefix=pierre+hadot%2Cstripbooks%2C59&sr=1-1"
+      url: "https://www.amazon.com/dp/0631180338"
 
 Garen:
   name        : Garen
-  bio         : 
+  bio         :
   avatar      : "/assets/images/garen.png"
   email       : garen@garenhart.com
 
 Garen Hart    : # profile with Montaigne clothing for fun
   name        : Garen
-  bio         : 
+  bio         :
   avatar      : "/assets/images/Garen-Montaigne-lowres.png"
   email       : garen@garenhart.com
-
-# Author template
-#Seneca:
-#  name        : "Seneca"
-#  bio         : Lucius Annaeus Seneca the Younger (c. 4 BC - 65 AD)
-#  avatar      : "/assets/images/seneca.jpg"
-#  links:
-#    - label: ""
-#      icon: "fab fa-wikipedia-w"
-#      url: "https://en.wikipedia.org/wiki/Seneca_the_Younger"
-

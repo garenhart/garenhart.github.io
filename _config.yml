@@ -22,7 +22,6 @@ locale                   : "en-US"
 title                    : "Hypomnemata"
 title_separator          : "-"
 subtitle                 : "'The unexamined life is not worth living' - Socrates"
-# subtitle                : "Thoughts and quotes (from mostly Stoic sources) on essential (to me) topics."
 name                     : "Garen"
 description              : >- # this means to ignore newlines until "baseurl:"
   This is an ongoing collection of my personal notes, favorite quotes and useful
@@ -62,11 +61,6 @@ atom_feed:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
 google:
   search_engine_id       : 014125277502774272020:pl0o9yht68k # YOUR_SEARCH_ENGINE_ID
   instant_search         : true # false (default), true

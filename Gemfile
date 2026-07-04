@@ -13,7 +13,6 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
 end
 
 

@@ -1,22 +1,37 @@
 # garenhart.github.io
-garenhart.com website
 
-using remote jekyll theme: https://github.com/mmistakes/minimal-mistakes/
+Source for [garenhart.com](https://garenhart.com) — *Hypomnemata*, a personal
+collection of notes and quotes (mostly from Stoic sources) for re-reading and
+meditation.
 
-Following YouTube videos were instrumental in developing this website repo:
-https://www.youtube.com/watch?v=NMmfYJZCHO4&list=WL&index=7&t=0s
-https://www.youtube.com/watch?v=qWrcgHwSG8M
+Built with [Jekyll](https://jekyllrb.com/) and the remote
+[Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/) theme, hosted
+on GitHub Pages.
 
-To set up development environment to develop this theme run: bundle install
+## Local development
 
-To test locally before pushing, start GitBash and run following two commands:
- bundle update
- bundle exec jekyll serve
+Install dependencies (once):
 
-Then point the browser to indicated Server address: (http://127.0.0.1:4000)
+    bundle install
 
-This starts a Jekyll server using content in the test/ directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
+Serve the site locally with live reload:
 
-To upgrade the MM theme refer to: https://mmistakes.github.io/minimal-mistakes/docs/upgrading/
+    bundle exec jekyll serve
 
-All original tutorial posts with formatting info are included in _drafts folder, which makes them visible only locally when using bundle exec jekyll serve --drafts
+Then open <http://127.0.0.1:4000>. Edits regenerate automatically — just refresh.
+
+The tutorial/formatting-reference posts live in `_drafts/` and are only rendered
+locally. Include them while serving with:
+
+    bundle exec jekyll serve --drafts
+
+## Deploying
+
+Push to `main` — GitHub Pages builds and publishes the site automatically.
+
+## Upgrading the theme
+
+Follow the Minimal Mistakes
+[upgrade guide](https://mmistakes.github.io/minimal-mistakes/docs/upgrading/).
+Running `bundle update` refreshes the `github-pages` gem to match GitHub's
+current build environment.
