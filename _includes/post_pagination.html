@@ -1,0 +1,115 @@
+{% comment %}
+  Local override of Minimal Mistakes' post_pagination.html.
+  Replaces the bottom "Previous / Next" bar with floating side arrows that
+  stay pinned to the left/right edges of the viewport, so you can page
+  through quotes & thoughts without scrolling to the bottom. Also supports
+  the ← / → arrow keys. Styled for the "dark" skin.
+{% endcomment %}
+
+{% if page.previous or page.next %}
+<nav class="post-nav-float" aria-label="Post navigation">
+  {% if page.previous %}
+    {% assign prev_title = page.previous.title | markdownify | strip_html | strip_newlines | escape_once %}
+    <a class="post-nav-float__arrow post-nav-float__prev"
+       href="{{ page.previous.url | relative_url }}"
+       rel="prev"
+       title="Previous — {{ prev_title }}"
+       aria-label="Previous — {{ prev_title }}">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M15 5 L8 12 L15 19" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  {% endif %}
+  {% if page.next %}
+    {% assign next_title = page.next.title | markdownify | strip_html | strip_newlines | escape_once %}
+    <a class="post-nav-float__arrow post-nav-float__next"
+       href="{{ page.next.url | relative_url }}"
+       rel="next"
+       title="Next — {{ next_title }}"
+       aria-label="Next — {{ next_title }}">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 5 L16 12 L9 19" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  {% endif %}
+</nav>
+
+<style>
+  .post-nav-float__arrow {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 30;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    line-height: 1;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.92);
+    background: rgba(17, 19, 24, 0.66);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+    opacity: 0.85;
+    transition: background 0.2s ease, opacity 0.2s ease,
+                transform 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+  }
+  .post-nav-float__arrow:hover,
+  .post-nav-float__arrow:focus-visible {
+    background: #00adb5;
+    border-color: #00adb5;
+    color: #fff;
+    opacity: 1;
+    outline: none;
+  }
+  .post-nav-float__arrow:focus-visible {
+    box-shadow: 0 0 0 3px rgba(0, 173, 181, 0.45);
+  }
+  .post-nav-float__prev {
+    left: calc(0.5rem + env(safe-area-inset-left, 0px));
+  }
+  .post-nav-float__next {
+    right: calc(0.5rem + env(safe-area-inset-right, 0px));
+  }
+  .post-nav-float__arrow svg {
+    display: block;
+    width: 46%;
+    height: 46%;
+  }
+
+  @media (max-width: 37.5em) {
+    .post-nav-float__arrow {
+      width: 40px;
+      height: 40px;
+      opacity: 0.6;
+    }
+    .post-nav-float__prev { left: 0.25rem; }
+    .post-nav-float__next { right: 0.25rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .post-nav-float__arrow { transition: none; }
+  }
+</style>
+
+<script>
+  (function () {
+    var prev = document.querySelector('.post-nav-float__prev');
+    var next = document.querySelector('.post-nav-float__next');
+    if (!prev && !next) { return; }
+    document.addEventListener('keydown', function (e) {
+      if (e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) { return; }
+      var t = e.target;
+      if (t && (t.isContentEditable ||
+                /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName))) { return; }
+      if (e.key === 'ArrowLeft' && prev) {
+        e.preventDefault();
+        window.location.href = prev.getAttribute('href');
+      } else if (e.key === 'ArrowRight' && next) {
+        e.preventDefault();
+        window.location.href = next.getAttribute('href');
+      }
+    });
+  })();
+</script>
+{% endif %}
