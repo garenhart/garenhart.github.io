@@ -86,7 +86,8 @@
       width: 40px;
       height: 40px;
       top: auto;
-      bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
+      /* base gap + one circle radius (40px / 2 = 20px) to lift them higher */
+      bottom: calc(0.75rem + 20px + env(safe-area-inset-bottom, 0px));
       transform: none;
       opacity: 0.9;
     }
