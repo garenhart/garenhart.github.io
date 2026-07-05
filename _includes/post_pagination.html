@@ -1,9 +1,11 @@
 {% comment %}
   Local override of Minimal Mistakes' post_pagination.html.
   Replaces the bottom "Previous / Next" bar with floating side arrows that
-  stay pinned to the left/right edges of the viewport, so you can page
-  through quotes & thoughts without scrolling to the bottom. Also supports
-  the ← / → arrow keys. Styled for the "dark" skin.
+  stay pinned to the viewport, so you can page through quotes & thoughts
+  without scrolling to the bottom. Vertically centered on the side edges on
+  wider screens; dropped to the bottom corners on phones so they don't sit
+  on top of the text. Also supports the ← / → arrow keys. Styled for the
+  "dark" skin.
 {% endcomment %}
 
 {% if page.previous or page.next %}
@@ -77,14 +79,19 @@
     height: 46%;
   }
 
+  /* On phones, drop the arrows to the bottom corners so they never sit on
+     top of the text in the full-width reading column. */
   @media (max-width: 37.5em) {
     .post-nav-float__arrow {
       width: 40px;
       height: 40px;
-      opacity: 0.6;
+      top: auto;
+      bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
+      transform: none;
+      opacity: 0.9;
     }
-    .post-nav-float__prev { left: 0.25rem; }
-    .post-nav-float__next { right: 0.25rem; }
+    .post-nav-float__prev { left: calc(0.75rem + env(safe-area-inset-left, 0px)); }
+    .post-nav-float__next { right: calc(0.75rem + env(safe-area-inset-right, 0px)); }
   }
 
   @media (prefers-reduced-motion: reduce) {
